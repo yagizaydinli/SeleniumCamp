@@ -1,0 +1,28 @@
+1)
+Sayılar (Numbers):
+Tam sayılar (integers): 1, 2, 3, -4, -5 gibi tam sayılar.
+Ondalıklı sayılar (float): 1.0, 2.5, -3.14 gibi ondalıklı sayılar.
+Karmaşık sayılar (complex): 2 + 3j, -4.5 - 2j gibi karmaşık sayılar.
+
+Karakter Dizileri (Strings):
+Metinler ve karakterler: "Merhaba Dünya!", "Python"
+
+Listeler (Lists):
+Sıralı öğelerin listesi: [1, 2, 3], ["elma", "armut", "çilek"]
+
+Demetler (Tuples):
+Listelere benzer ama değiştirilemezler: (1, 2, 3), ("elma", "armut", "çilek")
+
+Sözlükler (Dictionaries):
+Anahtar-değer çiftleriyle oluşturulurlar: {"ad": "Ali", "soyad": "Yılmaz", "yaş": 25}
+
+Kümeler (Sets):
+Benzersiz öğelerin topluluğu: {"elma", "armut", "çilek"}
+
+Boolean (True/False):
+Sadece iki olası değer vardır: True ve False.
+
+2)
+Kursların listelendiği kartta: Kurs adı ve eğitmen adı string tamamlanma yüzdesi integer
+
+3)
